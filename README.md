@@ -12,6 +12,7 @@
 ## Archive de supports de cours
 
 - ID401 : [Développement d’interfaces 2](https://id401.ch/cours-dev2-css/)
+- ID402 : [Développement d’interfaces 2](https://id402.ch/cours-dev2-css/)
 - ID301 : [Projet interface](https://eracom-id301.github.io/cours-projet-interface/)
 - ID301 : [Développement d’interfaces 2](https://eracom-id301.github.io/cours-dev2-css/)
 
